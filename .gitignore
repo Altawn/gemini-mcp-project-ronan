@@ -55,3 +55,8 @@ venv.bak/
 # Editor/IDE
 .vscode/
 .idea/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
